@@ -1,7 +1,7 @@
 # Repositori Praktikum Pemrograman Web 2026
 **Informasi Mahasiswa:**
-* **Nama:** [Hilma Putri Andriyani Lestari]
-* **NIM:** [2406018]
+* **Nama:** Hilma Putri Andriyani Lestari
+* **NIM:** 2406018
 * **Kelas/Prodi:** Teknik Informatika - ITG
 * **Kode MK:** IFRWP5151
 ---
