@@ -83,7 +83,7 @@ const renderProjects = (filteredList) => {
   container.innerHTML = htmlString;
 };
 
-// Inisialisasi event listener setelah DOM selesai di-load
+// Inisialisasi listener setelah DOM selesai di-load
 document.addEventListener("DOMContentLoaded", () => {
   renderProjects(projects);
   updateStats(projects);

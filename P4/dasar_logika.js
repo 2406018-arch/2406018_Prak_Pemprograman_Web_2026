@@ -17,7 +17,7 @@ console.log(`Nama Programmer: ${namaProgrammer}`);
 console.log(`pengalaman: ${masaKerja} tahun`);
 console.log(`Status Senioritas: ${statusSenioritas}`);
 
-// menguji strick equality vs loose equality
+// menguji equality vs loose equality
 console.log("=== UJI PERBANDINGAN TIPE DATA ===");
 console.log("10 == '10' :", 10 == '10'); // true
 console.log("10 === '10' :", 10 === '10'); // false

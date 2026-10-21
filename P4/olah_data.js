@@ -1,5 +1,5 @@
 // File: olah_data.js
-// Praktik Manipulasi Array of Objects dengan ES6+
+// Praktik Manipulasi Arrayy of Objects dengan ES6+
 
 const projects = [
   {
