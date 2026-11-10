@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Modul 6 User Directory App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Daftar Pengguna</h2>
+    <p class="subtitle">Praktikum Asynchronous JavaScript & API Fetching</p>
+    
+    <!-- Tombol Aksi & Input Pencarian -->
+    <div class="actions-bar">
+      <button id="btnFetch" class="btn-primary">Muat Data Pengguna</button>
+      <input type="text" id="searchInput" placeholder="Cari nama pengguna..." style="margin-left: 10px; padding: 10px; border-radius: 6px; border: 1px solid #e2e8f0; font-size: 14px;">
+    </div>
+
+    <!-- Indikator Status -->
+    <div id="statusMessage" class="status-msg">Klik tombol di atas untuk memuat data pengguna.</div>
+
+    <!-- Kontainer Kartu Pengguna -->
+    <div id="userList" class="user-grid"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
